@@ -1,0 +1,14 @@
+.reponse{
+    display: flex;
+    width: 400px;
+}
+.reponse button{
+    height:40px;
+    width:130px;
+    border-radius: 5px;
+    margin:15px;
+    margin-left: 50px;
+}
+.phrase{
+    text-decoration: line-through;
+}
